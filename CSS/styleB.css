@@ -1,0 +1,22 @@
+h1, h3{
+    font-size: 34px;
+}
+
+img{
+    height: 300px;
+    width: 400px;   
+}
+
+h3>span{
+    background-color: plum;
+}
+
+h1, div{
+    text-align: center;
+}
+
+
+p, li{
+    font-family: "Times New Roman", "sans-serif";
+    font-size: 22px;
+}

@@ -1,0 +1,21 @@
+h1, div{
+    text-align: center;
+}
+
+h1, h3{
+    font-size: 34px;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
+
+h3>span{
+    background-color: hsl(0, 100%, 75%);
+}
+
+p, li{
+    font-family: "Times New Roman", "sans-serif";
+    font-size: 22px;
+}
